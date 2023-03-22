@@ -1,2 +1,2 @@
 # MySQL_MutualFundsReporting
-Assets under management (AUM), unique customer #, and account # are a few of the fundamental metrics executives and analysts need to monitor for decision-making in financial institutions. This repository contains a fictitious reporting project to measure the performance of Mutual Fund instruments. The tables contain dummy data.
+Assets under management (AUM), unique customer and account #s are a few of the fundamental metrics executives and analysts need to monitor for decision-making in financial institutions. This repository contains a fictitious reporting project to measure Mutual Fund instruments performance and make product-shelf decisions for 2023. The tables contain dummy data as of end of 2022 FY (2022-10-31).
